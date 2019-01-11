@@ -1,0 +1,6 @@
+records/
+configs/
+keys/
+*.pyc
+input_table.txt
+.idea/
