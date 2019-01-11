@@ -1,4 +1,3 @@
-[![asciicast](https://asciinema.org/a/ztnxg8u3CfNyN3GqQme3gi6MX.png)](https://asciinema.org/a/ztnxg8u3CfNyN3GqQme3gi6MX)
 
 Необходимо сформировать таблицу со следующимии столбцами:
 
